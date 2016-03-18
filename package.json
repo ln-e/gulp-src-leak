@@ -1,0 +1,40 @@
+{
+  "name": "gulp-src-leak",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ln-e/gulp-src-leak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ln-e/gulp-src-leak/issues"
+  },
+  "homepage": "https://github.com/ln-e/gulp-src-leak#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-watch": "^4.2.4",
+    "browser-sync": "^2.7.1",
+    "cssnano": "^3.5.2",
+    "del": "^1.1.1",
+    "gulp-cached": "^1.1.0",
+    "gulp-count": "^0.2.0",
+    "gulp-css-file2base64": "^0.1.1",
+    "gulp-css-str2base64": "0.0.3",
+    "gulp-plumber": "^1.0.1",
+    "gulp-postcss": "^6.1.0",
+    "gulp-progeny": "^0.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.3",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.4",
+    "gulp.spritesmith": "^3.5.4",
+    "jquery": "^1.11.2",
+    "lazypipe": "^0.2.3",
+    "nconf": "^0.8.4",
+    "rename": "^1.0.3",
+    "run-sequence": "^1.1.5"
+  }
+}
